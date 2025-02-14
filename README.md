@@ -1,4 +1,4 @@
-# Fractals (2022). University Computer Graphics Assignment.
+# Fractals in Computer Graphics.
 # Requires [Graphics](https://github.com/ahuynh359/Graphics)
 Supports: Win x86.
 
